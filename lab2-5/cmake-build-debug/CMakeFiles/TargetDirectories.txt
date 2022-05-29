@@ -1,0 +1,3 @@
+/Users/viktoria/Documents/prog2/lab2-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/viktoria/Documents/prog2/lab2-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viktoria/Documents/prog2/lab2-5/cmake-build-debug/CMakeFiles/lab2_5.dir
